@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lDeathlWhisperl
 - 👀 I’m interested in music(playing on guitar) and programming
-- 🌱 I’m currently learning C++, Unreal Engine 4 (Blueprints)
+- 🌱 I’m currently learning C++, Unreal Engine 4
 - 💞️ I wish to work in game development
 - 📫 How to reach me: ldeathlwhisperl@gmail.com
 
