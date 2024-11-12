@@ -19,6 +19,12 @@
   <a href="https://steamcommunity.com/profiles/76561198111573610/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=Steam&labelColor=%23171a21" height="28" style="margin-right: 4px"></a>
   <a href="https://www.linkedin.com/in/илья-митин-8b6516234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> 
   <a href="https://www.instagram.com/ldeathlwhisperl" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Onlyfans-white?style=for-the-badge&logo=onlyfans" height="28" style="margin-right: 4px"></a>
+
+
+
+
+
 </p>
 
 **<h3 align="left">Rapid Fire</h3>**
