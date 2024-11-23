@@ -15,10 +15,10 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left">
   <a href="https://github.com/lDeathlWhisperl" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> 
-  <a href="https://t.me/lDeathlWhisperl" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=%2324A1DE" height="28" style="margin-right: 4px"></a>
   <a href="https://steamcommunity.com/profiles/76561198111573610/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=Steam&labelColor=%23171a21" height="28" style="margin-right: 4px"></a>
-  <a href="https://www.linkedin.com/in/илья-митин-8b6516234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> 
   <a href="https://www.instagram.com/ldeathlwhisperl" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a>
+  <a href="https://www.linkedin.com/in/илья-митин-8b6516234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> 
+  <a href="https://t.me/lDeathlWhisperl" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=%2324A1DE" height="28" style="margin-right: 4px"></a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Onlyfans-white?style=for-the-badge&logo=onlyfans" height="28" style="margin-right: 4px"></a>
 
 
